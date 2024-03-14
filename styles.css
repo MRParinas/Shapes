@@ -7,9 +7,9 @@ body, html {
   #cube-container {
     order: 2;
     width: 200px;
-    height: 200px;
+    height: 150px;
     position: fixed;
-    left: 70%;
+    left: 80%;
     bottom: 300px;
     transform-style: preserve-3d;
     transform: translateX(-50%) rotateX(-20deg) rotateY(-45deg);
