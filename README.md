@@ -1,3 +1,5 @@
+#Shapes
+
 As I embarked on my second project in the realm of web development, the challenge was set to dive deeper into the intricacies of HTML and CSS, with a particular focus on creating and manipulating shapes. This project was not just about reinforcing my foundational knowledge but also about exploring the boundaries of style creation and the dynamic visualization capabilities of CSS. Here's a glimpse into that journey.
 
 After successfully navigating the basics of web development in my initial project, I felt excited with the next learning step in the program. Drawing from my new learnings with HTML and CSS, I went into the next learning project in the program that revolved around creating shapes. The goal was simple to most yet quite challenging for a novice like myself: to design a webpage that not only displayed various geometric figures but also encapsulated the essence of style and transformation through CSS.
